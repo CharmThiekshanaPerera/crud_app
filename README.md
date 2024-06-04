@@ -1,5 +1,7 @@
-# My Repository
+# CRUD App
 
-![GitHub stars](https://img.shields.io/github/stars/CharmThiekshanaPerera/crud_app)
-![Build Status](https://travis-ci.com/CharmThiekshanaPerera/crud_app.svg?branch=main)
-![Codecov](https://codecov.io/gh/CharmThiekshanaPerera/crud_app/branch/main/graph/badge.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/CharmThiekshanaPerera/crud_app)
+![GitHub issues](https://img.shields.io/github/issues/CharmThiekshanaPerera/crud_app)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/CharmThiekshanaPerera/crud_app)
+![GitHub forks](https://img.shields.io/github/forks/CharmThiekshanaPerera/crud_app?style=social)
+
